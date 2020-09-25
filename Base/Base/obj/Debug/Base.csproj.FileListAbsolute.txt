@@ -1,0 +1,11 @@
+C:\Users\Семеныч\Desktop\DataBase\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Семеныч\Desktop\DataBase\Base\Base\bin\Debug\Base.exe
+C:\Users\Семеныч\Desktop\DataBase\Base\Base\bin\Debug\Base.pdb
+C:\Users\Семеныч\Desktop\DataBase\Base\Base\obj\Debug\Base.csprojAssemblyReference.cache
+C:\Users\Семеныч\Desktop\DataBase\Base\Base\obj\Debug\Base.mainForm.resources
+C:\Users\Семеныч\Desktop\DataBase\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Семеныч\Desktop\DataBase\Base\Base\obj\Debug\Base.csproj.GenerateResource.cache
+C:\Users\Семеныч\Desktop\DataBase\Base\Base\obj\Debug\Base.csproj.CoreCompileInputs.cache
+C:\Users\Семеныч\Desktop\DataBase\Base\Base\obj\Debug\Base.exe
+C:\Users\Семеныч\Desktop\DataBase\Base\Base\obj\Debug\Base.pdb
+C:\Users\Семеныч\Desktop\DataBase\Base\Base\obj\Debug\Base.AddEditOtdel.resources
